@@ -1,0 +1,20 @@
+﻿  EthernalRainbow.peaceful.cpp
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(380,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(434,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(488,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(542,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(596,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(650,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(704,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(758,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(779,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(779,24): warning C4129: B: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\EthernalRainbow.peaceful\EthernalRainbow.peaceful.cpp(785,25): warning C4129: N: неизвестная escape-последовательность
+  Previous IPDB not found, fall back to full compilation.
+  Создание кода
+  All 17 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  EthernalRainbow.peaceful.vcxproj -> C:\Users\mrsuperbuddy\source\repos\EthernalRainbow.peaceful\Release\EthernalRainbow.peaceful.exe

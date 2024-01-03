@@ -1,0 +1,25 @@
+﻿  EthernalRainbow.cpp
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(174,7): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(184,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(189,10): warning C4552: "<": результат выражения не используется
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2267,6): warning C4101: auStack612: неиспользованная локальная переменная
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2464,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2518,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2572,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2626,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2680,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2734,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2788,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2842,14): warning C4244: инициализация: преобразование "int" в "FLOAT", возможна потеря данных
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2863,24): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2863,24): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2863,24): warning C4129: C: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2863,24): warning C4129: P: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2869,25): warning C4129: T: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2869,25): warning C4129: I: неизвестная escape-последовательность
+C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\EthernalRainbow\EthernalRainbow.cpp(2869,25): warning C4129: C: неизвестная escape-последовательность
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  EthernalRainbow.vcxproj -> C:\Users\mrsuperbuddy\source\repos\EthernalRainbow\Release\EthernalRainbow.exe
